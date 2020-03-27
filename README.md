@@ -1,3 +1,3 @@
 # Ratkaisut
 
-Hello world! 
+C# tehtävät, ohjelmoinnin perusteet.
