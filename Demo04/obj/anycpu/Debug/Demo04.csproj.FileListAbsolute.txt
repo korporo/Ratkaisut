@@ -1,0 +1,5 @@
+/Users/Korporo/Projektit/ttzc0200/Code/Demo04/bin/Debug/Demo04.exe
+/Users/Korporo/Projektit/ttzc0200/Code/Demo04/bin/Debug/Demo04.pdb
+/Users/Korporo/Projektit/ttzc0200/Code/Demo04/obj/anycpu/Debug/Demo04.exe
+/Users/Korporo/Projektit/ttzc0200/Code/Demo04/obj/anycpu/Debug/Demo04.pdb
+/Users/Korporo/Projektit/ttzc0200/Code/Demo04/obj/anycpu/Debug/Demo04.csprojAssemblyReference.cache

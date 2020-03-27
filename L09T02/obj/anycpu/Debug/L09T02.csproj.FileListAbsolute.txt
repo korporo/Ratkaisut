@@ -1,0 +1,4 @@
+/Users/Korporo/Projektit/ttzc0200/Code/L09T02/bin/Debug/L09T02.exe
+/Users/Korporo/Projektit/ttzc0200/Code/L09T02/bin/Debug/L09T02.pdb
+/Users/Korporo/Projektit/ttzc0200/Code/L09T02/obj/anycpu/Debug/L09T02.exe
+/Users/Korporo/Projektit/ttzc0200/Code/L09T02/obj/anycpu/Debug/L09T02.pdb

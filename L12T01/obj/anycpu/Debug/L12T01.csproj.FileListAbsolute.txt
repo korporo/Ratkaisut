@@ -1,0 +1,5 @@
+/Users/Korporo/Projektit/ttzc0200/Code/L12T01/bin/Debug/L12T01.exe
+/Users/Korporo/Projektit/ttzc0200/Code/L12T01/bin/Debug/L12T01.pdb
+/Users/Korporo/Projektit/ttzc0200/Code/L12T01/obj/anycpu/Debug/L12T01.csprojAssemblyReference.cache
+/Users/Korporo/Projektit/ttzc0200/Code/L12T01/obj/anycpu/Debug/L12T01.exe
+/Users/Korporo/Projektit/ttzc0200/Code/L12T01/obj/anycpu/Debug/L12T01.pdb

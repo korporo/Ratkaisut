@@ -1,0 +1,25 @@
+
+Personal Info: 
+Player name: asy
+Nationality: finland
+Player age: 24
+Height: 181cm
+Weight: 93kg
+
+Player Info: 
+Position: Center
+Team: Pelitaat
+League: Suomisarja
+Preferred foot: Vasen
+Weak foot: 3 stars
+Skill-moves: 4 stars
+
+Stats: 
+Pace: 77
+Shooting: 80
+Passing: 70
+Dribbling: 80
+Defence: 40
+Physical: 85
+
+Overall: 72

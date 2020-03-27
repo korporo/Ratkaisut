@@ -1,0 +1,4 @@
+/Users/Korporo/Projektit/ttzc0200/Code/L13T02/bin/Debug/L13T02.exe
+/Users/Korporo/Projektit/ttzc0200/Code/L13T02/bin/Debug/L13T02.pdb
+/Users/Korporo/Projektit/ttzc0200/Code/L13T02/obj/anycpu/Debug/L13T02.exe
+/Users/Korporo/Projektit/ttzc0200/Code/L13T02/obj/anycpu/Debug/L13T02.pdb

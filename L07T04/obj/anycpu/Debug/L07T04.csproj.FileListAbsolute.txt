@@ -1,0 +1,5 @@
+/Users/Korporo/Projektit/ttzc0200/Code/L07T04/bin/Debug/L07T04.exe
+/Users/Korporo/Projektit/ttzc0200/Code/L07T04/bin/Debug/L07T04.pdb
+/Users/Korporo/Projektit/ttzc0200/Code/L07T04/obj/anycpu/Debug/L07T04.exe
+/Users/Korporo/Projektit/ttzc0200/Code/L07T04/obj/anycpu/Debug/L07T04.pdb
+/Users/Korporo/Projektit/ttzc0200/Code/L07T04/obj/anycpu/Debug/L07T04.csprojAssemblyReference.cache

@@ -1,0 +1,4 @@
+/Users/Korporo/Projektit/ttzc0200/Code/L06T03/bin/Debug/L06T03.exe
+/Users/Korporo/Projektit/ttzc0200/Code/L06T03/bin/Debug/L06T03.pdb
+/Users/Korporo/Projektit/ttzc0200/Code/L06T03/obj/anycpu/Debug/L06T03.exe
+/Users/Korporo/Projektit/ttzc0200/Code/L06T03/obj/anycpu/Debug/L06T03.pdb

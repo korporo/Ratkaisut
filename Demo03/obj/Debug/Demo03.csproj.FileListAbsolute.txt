@@ -1,0 +1,5 @@
+/Users/Korporo/Projektit/ttzc0200/Code/Demo03/bin/Debug/Demo03.exe
+/Users/Korporo/Projektit/ttzc0200/Code/Demo03/bin/Debug/Demo03.pdb
+/Users/Korporo/Projektit/ttzc0200/Code/Demo03/obj/Debug/Demo03.csprojAssemblyReference.cache
+/Users/Korporo/Projektit/ttzc0200/Code/Demo03/obj/Debug/Demo03.exe
+/Users/Korporo/Projektit/ttzc0200/Code/Demo03/obj/Debug/Demo03.pdb
